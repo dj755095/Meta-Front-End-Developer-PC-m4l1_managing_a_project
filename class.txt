@@ -1,15 +1,13 @@
-Pen
-Coffee mug
-Sunglasses
-Notebook
-Headphones
-Backpack
-Umbrella
-Wallet
-Smartphone
-Keychain
-Water bottle
-T-shirt
-Watch
-Plant
-Puzzle
+Crimson
+Orange
+Blue
+Cyan
+Yellow
+Charcoal
+Khaki
+Coral
+Silver
+Fuchsia
+Purple
+Brown
+Red
